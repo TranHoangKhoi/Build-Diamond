@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.52cf52df.css",
-    "main.js": "/static/js/main.b4c1c9c4.js",
+    "main.js": "/static/js/main.ad6d7c6f.js",
     "static/js/787.cdcdca4b.chunk.js": "/static/js/787.cdcdca4b.chunk.js",
     "static/media/tekzone__2.png": "/static/media/tekzone__2.b17539160bb5176986a6.png",
     "static/media/tekzone__1.png": "/static/media/tekzone__1.7f1b464ec5e039a33a76.png",
@@ -21,11 +21,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.52cf52df.css.map": "/static/css/main.52cf52df.css.map",
-    "main.b4c1c9c4.js.map": "/static/js/main.b4c1c9c4.js.map",
+    "main.ad6d7c6f.js.map": "/static/js/main.ad6d7c6f.js.map",
     "787.cdcdca4b.chunk.js.map": "/static/js/787.cdcdca4b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.52cf52df.css",
-    "static/js/main.b4c1c9c4.js"
+    "static/js/main.ad6d7c6f.js"
   ]
 }
